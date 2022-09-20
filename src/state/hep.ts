@@ -2,6 +2,7 @@
 
 import { Url } from "url";
 
+// defines the data-model of an hep
 export interface Hep {
     id : string; 
     name: string;
